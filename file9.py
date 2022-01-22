@@ -19,4 +19,4 @@ elif (x == "D"):
  print(l)
 else:
  print(l)
-
+app.run(host="0.0.0.0", port=8080)
