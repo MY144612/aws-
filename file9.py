@@ -1,3 +1,6 @@
+import os
+from flask import Flask
+app = Flask(_name_)
 l= []
 n=int(input("entre the number of elements : "))
 i=0
@@ -16,3 +19,4 @@ elif (x == "D"):
  print(l)
 else:
  print(l)
+
